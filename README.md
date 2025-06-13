@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati-1111&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-1111" /> </p>
 
-- 👯 I’m looking to collaborate on **Web development projects using HHTML, CSS, JavaScript, or React.**
+- 👯 I’m looking to collaborate on **Web development projects using HTML, CSS, JavaScript, or React.**
 
 - 🤝 I’m looking for help with **Understanding advanced backend concepts like Node.js and databases (MongoDB, SQL).**
 
